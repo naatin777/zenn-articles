@@ -3,7 +3,7 @@ title: "そのMessageって、何のMessage?"
 emoji: "🤖"
 type: "tech"
 topics: ["命名", "設計", "ai", "vibecoding"]
-published: false
+published: true
 ---
 
 以下は、命名をあまり意識せずにチャットアプリをバイブコーディングしている開発者とAIの、少し極端な架空のチャットログです。
